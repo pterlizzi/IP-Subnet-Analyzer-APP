@@ -1,0 +1,6 @@
+{
+  "name": "IP Analyzer & Subnet Calculator",
+  "description": "RFC-compliant IPv4 and IPv6 network analysis engine, CIDR subnet calculator, binary bit visualizer, Cisco ACL wildcard masks, and reverse DNS PTR generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
